@@ -1,0 +1,54 @@
+{
+    "name": "ingredients",
+    "list": [
+        {
+            "name": "Beef",
+            "value": "0b100000000000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Salmon",
+            "value": "0b010000000000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Tuna",
+            "value": "0b001000000000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Pork",
+            "value": "0b000100000000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Tomato",
+            "value": "0b000010000000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Chicken",
+            "value": "0b000001000000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Mushroom",
+            "value": "0b000000100000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Flour",
+            "value": "0b000000010000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Rice",
+            "value": "0b000000001000",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Potato",
+            "value": "0b000000000100",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Onion",
+            "value": "0b000000000010",
+            "img": "no_image.jpg"
+        }, {
+            "name": "Egg",
+            "value": "0b000000000001",
+            "img": "no_image.jpg"
+        }
+    ]
+}
