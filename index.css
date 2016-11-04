@@ -1,3 +1,7 @@
 .ingredients-selected {
     border: 0.4rem red dotted;
 }
+
+.responsive-img {
+    max-height: 153px;
+}
