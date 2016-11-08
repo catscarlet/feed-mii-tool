@@ -39,25 +39,24 @@
                 Choose ingredients you have:
             </h4>
 
-            <div class="row">
+            <div class="row row-table">
                 <hr>
                 {foreach $ingredients as $ingredient}
                 <div id="{(int) base_convert($ingredient['value'], 2, 10)}" class="col s2">
-                    <img class="responsive-img circle ingredients" src="{$ingredient['img']}" alt="1"/>
+                    <img class="responsive-img circle ingredients" src="img/{$ingredient['img']}" alt="{$ingredient['name']}"/>
                     <p class="center-align">{$ingredient['name']}</p>
                 </div>
 
                 {/foreach}
                 <hr>
-            </div>
-
-            <div>
                 <p class="center-align">
                     <a class="waves-effect waves-light btn deep-orange accent-4" id="cook" name="button">Cook!</a>
                 </p>
+
             </div>
             <hr>
             <div id="table"></div>
+
         </div>
 
         <div id="modal-about" class="modal">

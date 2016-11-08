@@ -2,10 +2,6 @@
 
 require 'recipe.class.php';
 
-//($recipe_class);
-
-//$get_ingredents_value = 0b100110001001;
-
 if (isset($_POST['sum']) && !empty($_POST['sum'])) {
     $get_ingredents_value = $_POST['sum'];
 } else {
@@ -26,19 +22,15 @@ foreach ($recipe_class as $key => $recipe_info) {
     }
 
     if (($recipe_info->value & $get_ingredents_value) == $recipe_info->value) {
-        //print_r($recipe_info);
         $output[] = $recipe_info;
     }
 }
-//print_r($output);
+
 $result = array();
 
 foreach ($output as $key => $recipe_avaliable) {
-    //$result[] = array('name' => $recipe_avaliable->name ,'value' => $recipe_avaliable->value,'ingredients_name' => $recipe_avaliable->ingredients_name);
-    $result[]=get_object_vars($recipe_avaliable);
+    $result[] = get_object_vars($recipe_avaliable);
 }
-
-//print_r($result);
 
 $rst = array('result' => $result);
 

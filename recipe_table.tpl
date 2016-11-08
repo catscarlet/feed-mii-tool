@@ -11,7 +11,7 @@
     <tbody>
         {foreach $results as $result}
         <tr>
-            <td><img src="{$result['image']}" alt="{$result['image']}" /></td>
+            <td><img src="img/{$result['image']}" alt="{$result['name']}"/></td>
             <td>{$result['name']}</td>
             <td>{$result['ingredients_name']}</td>
         </tr>

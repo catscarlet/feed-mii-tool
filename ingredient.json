@@ -4,51 +4,51 @@
         {
             "name": "Beef",
             "value": "0b100000000000",
-            "img": "no_image.jpg"
+            "img": "0b100000000000.png"
         }, {
             "name": "Salmon",
             "value": "0b010000000000",
-            "img": "no_image.jpg"
+            "img": "0b010000000000.png"
         }, {
             "name": "Tuna",
             "value": "0b001000000000",
-            "img": "no_image.jpg"
+            "img": "0b001000000000.png"
         }, {
             "name": "Pork",
             "value": "0b000100000000",
-            "img": "no_image.jpg"
+            "img": "0b000100000000.png"
         }, {
             "name": "Tomato",
             "value": "0b000010000000",
-            "img": "no_image.jpg"
+            "img": "0b000010000000.png"
         }, {
             "name": "Chicken",
             "value": "0b000001000000",
-            "img": "no_image.jpg"
+            "img": "0b000001000000.png"
         }, {
             "name": "Mushroom",
             "value": "0b000000100000",
-            "img": "no_image.jpg"
+            "img": "0b000000100000.png"
         }, {
             "name": "Flour",
             "value": "0b000000010000",
-            "img": "no_image.jpg"
+            "img": "0b000000010000.png"
         }, {
             "name": "Rice",
             "value": "0b000000001000",
-            "img": "no_image.jpg"
+            "img": "0b000000001000.png"
         }, {
             "name": "Potato",
             "value": "0b000000000100",
-            "img": "no_image.jpg"
+            "img": "0b000000000100.png"
         }, {
             "name": "Onion",
             "value": "0b000000000010",
-            "img": "no_image.jpg"
+            "img": "0b000000000010.png"
         }, {
             "name": "Egg",
             "value": "0b000000000001",
-            "img": "no_image.jpg"
+            "img": "0b000000000001.png"
         }
     ]
 }
