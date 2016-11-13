@@ -45,6 +45,9 @@
                 <div id="{(int) base_convert($ingredient['value'], 2, 10)}" class="col s2">
                     <img class="responsive-img circle ingredients" src="img/{$ingredient['img']}" alt="{$ingredient['name']}"/>
                     <p class="center-align">{$ingredient['name']}</p>
+                    {if $ingredient@key eq 5}
+                    <br>
+                    {/if}
                 </div>
 
                 {/foreach}
