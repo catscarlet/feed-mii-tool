@@ -5,8 +5,8 @@
         <link type="text/css" rel="stylesheet" href="index.css" media="screen,projection"/>
         <meta charset="utf-8">
         <title>Feed Mii Tool</title>
-        <meta name="description" content="Feed Mii Tool is developed for gamers who play Feed Mii in StreetPass on 3DS.">
-        <meta name="keywords" content="3ds,feed,mii,streetpass,street,pass,4star">
+        <meta name="description" content="Feed Mii Tool is developed for gamers who play Feed Mii in StreetPass Mii Plaza on 3DS.">
+        <meta name="keywords" content="3ds,feed,mii,streetpass,street,pass,4star,mii,plaze">
         <meta name="author" content="Catscarlet">
     </head>
     <script type="text/javascript" src="jquery-3.1.1.min.js"></script>
@@ -66,7 +66,7 @@
             <div class="modal-content">
                 <h4>About Feed Mii Tool</h4>
                 <p>
-                    Feed Mii Tool is developed for gamers who play Feed Mii in StreetPass on 3DS.
+                    Feed Mii Tool is developed for gamers who play Feed Mii in StreetPass Mii Plaza on 3DS.
                 </p>
                 <p>
                     This tool will help you get 4 star recipes with the ingredients you have. Just choose the ingredients you have, and this tool will tell you which recipes you can get using the ingredients.
