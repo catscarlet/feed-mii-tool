@@ -1,6 +1,6 @@
 <?php
 
-ini_set('date.timezone', 'Asia/Shanghai');
+//ini_set('date.timezone', 'Asia/Shanghai');
 require 'Smarty/libs/Smarty.class.php';
 $smarty = new Smarty();
 

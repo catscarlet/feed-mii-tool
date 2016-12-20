@@ -21,6 +21,9 @@
                         <a href="#modal-about" target="_blank">About</a>
                     </li>
                     <li>
+                        <a href="#modal-changelog" target="_blank">ChangeLog</a>
+                    </li>
+                    <li>
                         <a href="https://www.catscarlet.com" target="_blank">Mainpage</a>
                     </li>
                 </ul>
@@ -59,7 +62,14 @@
             </div>
             <hr>
             <div id="table"></div>
-
+            <div>
+                <script type="text/javascript">
+                    var cnzz_protocol = (("https:" == document.location.protocol)
+                        ? " https://"
+                        : " http://");
+                    document.write(unescape("%3Cspan id='cnzz_stat_icon_4502669'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D4502669' type='text/javascript'%3E%3C/script%3E"));
+                </script>
+            </div>
         </div>
 
         <div id="modal-about" class="modal">
@@ -69,11 +79,36 @@
                     Feed Mii Tool is developed for gamers who play Feed Mii in StreetPass Mii Plaza on 3DS.
                 </p>
                 <p>
-                    This tool will help you get 4 star recipes with the ingredients you have. Just choose the ingredients you have, and this tool will tell you which recipes you can get using the ingredients.
+                    This tool will help you get better recipes with the ingredients you have. Just choose the ingredients you have, and this tool will tell you which recipes you can get using the ingredients.
                 </p>
                 <p>
                     Do not waste ingredients.
                 </p>
+                <p>
+                    Contributing?
+                    <br>Project Registry:
+                    <a href="https://github.com/catscarlet/feed-mii-tool" target="_blank">catscarlet/feed-mii-tool</a>
+                </p>
+            </div>
+            <div class="modal-footer">
+                <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">OK</a>
+            </div>
+        </div>
+
+        <div id="modal-changelog" class="modal">
+            <div class="modal-content">
+                <h5>20161104</h5>
+                <ul>
+                    <li>Initial commit</li>
+                </ul>
+                <h5>20161220</h5>
+                <ul>
+                    <li>
+                        <strong>Update the Recipe Database. Now we almost support every recipe which is more than 4 stars.</strong>
+                    </li>
+                    <li>Add a website statistics. Please don&#39;t mind the Chinese letter below the page.</li>
+                    <li>Some appearance adjustment.</li>
+                </ul>
             </div>
             <div class="modal-footer">
                 <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">OK</a>

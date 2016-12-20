@@ -5,218 +5,358 @@
     "list": [
         {
             "name": "Beef and Rice Casserole",
-            "ingredients_name": "BEEF, TOMATO, RICE",
+            "ingredients_name": "Beef, Tomato, Rice",
             "value": "0b100010001000",
             "image": "no_image.jpg"
         }, {
-            "name": "Meat Omelette",
-            "ingredients_name": "BEEF, PORK, EGG",
+            "name": "Meat Omelet",
+            "ingredients_name": "Beef, Pork, Egg",
             "value": "0b100100000001",
             "image": "no_image.jpg"
         }, {
             "name": "Beef & Salmon Barbecue",
-            "ingredients_name": "BEEF, SALMON, ONION",
+            "ingredients_name": "Beef, Salmon, Onion",
             "value": "0b110000000010",
             "image": "no_image.jpg"
         }, {
             "name": "Beef with Tuna Sauce",
-            "ingredients_name": "BEEF, TUNA, ONION",
+            "ingredients_name": "Beef, Tuna, Onion",
             "value": "0b101000000010",
             "image": "no_image.jpg"
         }, {
             "name": "Pork & Salmon Stir-Fry",
-            "ingredients_name": "SALMON, PORK, ONION",
+            "ingredients_name": "Salmon, Pork, Onion",
             "value": "0b010100000010",
             "image": "no_image.jpg"
         }, {
             "name": "Pork with Mushroom Sauce",
-            "ingredients_name": "PORK, MUSHROOM",
+            "ingredients_name": "Pork, Mushroom",
             "value": "0b000100100000",
             "image": "no_image.jpg"
         }, {
-            "name": "Chicken and Salmon Cream Stew",
-            "ingredients_name": "SALMON, CHICKEN, FLOUR",
+            "name": "Chicken & Salmon Cream Stew",
+            "ingredients_name": "Salmon, Chicken, Flour",
             "value": "0b010001010000",
             "image": "no_image.jpg"
         }, {
             "name": "Pork Dumplings",
-            "ingredients_name": "PORK, FLOUR",
+            "ingredients_name": "Pork, Flour",
             "value": "0b000100010000",
             "image": "no_image.jpg"
         }, {
-            "name": "Pork Sauté",
-            "ingredients_name": "PORK, ONION",
+            "name": "Sautéed Pork",
+            "ingredients_name": "Pork, Onion",
             "value": "0b000100000010",
             "image": "no_image.jpg"
         }, {
-            "name": "Chicken Sauté",
-            "ingredients_name": "CHICKEN, ONION",
+            "name": "Sautéed Chicken",
+            "ingredients_name": "Chicken, Onion",
             "value": "0b000001000010",
             "image": "no_image.jpg"
         }, {
             "name": "Sushi",
-            "ingredients_name": "SALMON, TUNA, RICE",
+            "ingredients_name": "Salmon, Tuna, Rice",
             "value": "0b011000001000",
             "image": "no_image.jpg"
         }, {
             "name": "Fried Rice",
-            "ingredients_name": "PORK, RICE, EGG",
+            "ingredients_name": "Pork, Rice, Egg",
             "value": "0b000100001001",
             "image": "no_image.jpg"
         }, {
             "name": "Potato Gratin",
-            "ingredients_name": "MUSHROOM, FLOUR, POTATO",
-            "value": "0b000010110000",
+            "ingredients_name": "Mushroom, Flour, Potato",
+            "value": "0b000000110100",
             "image": "no_image.jpg"
         }, {
             "name": "Roast Beef",
-            "ingredients_name": "BEEF, ONION",
+            "ingredients_name": "Beef, Onion",
             "value": "0b100000000010",
             "image": "no_image.jpg"
         }, {
             "name": "Roast Chicken",
-            "ingredients_name": "CHICKEN, ONION",
+            "ingredients_name": "Chicken, Onion",
             "value": "0b000001000010",
             "image": "no_image.jpg"
         }, {
             "name": "Meatballs",
-            "ingredients_name": "BEEF, PORK, CHICKEN",
+            "ingredients_name": "Beef, Pork, Chicken",
             "value": "0b100101000000",
             "image": "no_image.jpg"
         }, {
-            "name": "Potato Croquettes",
-            "ingredients_name": "FLOUR, POTATO, RICE",
-            "value": "0b000000011100",
+            "name": "Beef Pie",
+            "ingredients_name": "Beef, Flour, Egg",
+            "value": "0b100000010001",
             "image": "no_image.jpg"
         }, {
-            "name": "Pork and Egg Stir-Fry",
-            "ingredients_name": "PORK, ONION, EGG",
+            "name": "Hashed Beef",
+            "ingredients_name": "Beef, Tomato, Onion",
+            "value": "0b100010000010",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Beef Curry",
+            "ingredients_name": "Beef, Rice, Potato, Onion",
+            "value": "0b100000001110",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Meat Loaf",
+            "ingredients_name": "Beef, Mushroom, Onion",
+            "value": "0b100000100010",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Potato Croquettes",
+            "ingredients_name": "Flour, Potato, Egg",
+            "value": "0b000000010101",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Pork & Egg Stir-Fry",
+            "ingredients_name": "Pork, Onion, Egg",
             "value": "0b000100000011",
             "image": "no_image.jpg"
         }, {
-            "name": "Seafood Paella",
-            "ingredients_name": "SALMON, TUNA, RICE",
+            "name": "Seafood Paelle",
+            "ingredients_name": "Salmon, Tuna, Rice",
             "value": "0b011000001000",
             "image": "no_image.jpg"
         }, {
-            "name": "Spanish Omelette",
-            "ingredients_name": "POTATO, ONION, EGG",
+            "name": "Pork Chop Suey",
+            "ingredients_name": "Pork, Mushroom, Egg",
+            "value": "0b000100100001",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Spanish Omelet",
+            "ingredients_name": "Potato, Onion, Egg",
             "value": "0b000000000111",
             "image": "no_image.jpg"
         }, {
             "name": "French Onion Soup",
-            "ingredients_name": "MUSHROOM, FLOUR, ONION",
+            "ingredients_name": "Mushroom, Flour, Onion",
             "value": "0b000000110010",
             "image": "no_image.jpg"
         }, {
             "name": "Potato Salad",
-            "ingredients_name": "TOMATO, POTATO, ONION",
+            "ingredients_name": "Tomato, Potato, Onion",
             "value": "0b000010000110",
             "image": "no_image.jpg"
         }, {
+            "name": "Mushroom Potpie",
+            "ingredients_name": "Mushroom, Flour, Egg",
+            "value": "0b000000110001",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Tomato Risotto",
+            "ingredients_name": "Tomato, Rice, Onion",
+            "value": "0b000010001010",
+            "image": "no_image.jpg"
+        }, {
             "name": "Scotch Eggs",
-            "ingredients_name": "PORK, FLOUR, EGG",
+            "ingredients_name": "Pork, Flour, Egg",
             "value": "0b000100010001",
             "image": "no_image.jpg"
         }, {
-            "name": "Salisbury Steak",
-            "ingredients_name": "BEEF, PORK, ONION, EGG",
+            "name": "Salisbury Steak & Eggs",
+            "ingredients_name": "Beef, Pork, Onion, Egg",
             "value": "0b100100000011",
             "image": "no_image.jpg"
         }, {
+            "name": "Chicken Escalopes",
+            "ingredients_name": "Chicken, Mushroom, Flour",
+            "value": "0b000001110000",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Pork Curry",
+            "ingredients_name": "Pork, Rice, Potato, Onion",
+            "value": "0b000100001110",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Chicken Cream Stew",
+            "ingredients_name": "Chicken, Flour, Potato",
+            "value": "0b000001010100",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Chicken Curry",
+            "ingredients_name": "Chicken, Rice, Potato, Onion",
+            "value": "0b000001001110",
+            "image": "no_image.jpg"
+        }, {
             "name": "Chicken Tomato Stew",
-            "ingredients_name": "TOMATO, CHICKEN, MUSHROOM",
+            "ingredients_name": "Tomato, Chicken, Mushroom",
             "value": "0b000011100000",
             "image": "no_image.jpg"
         }, {
             "name": "Tuna Sandwich",
-            "ingredients_name": "TUNA, FLOUR, EGG",
+            "ingredients_name": "Tuna, Flour, Egg",
             "value": "0b001000010001",
             "image": "no_image.jpg"
         }, {
             "name": "Tuna Salad",
-            "ingredients_name": "TUNA, TOMATO, ONION",
+            "ingredients_name": "Tuna, Tomato, Onion",
             "value": "0b001010000010",
             "image": "no_image.jpg"
         }, {
+            "name": "Tuna Carpaccio",
+            "ingredients_name": "Tuna, Tomato, Onion",
+            "value": "0b001010000010",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Salmon Meuneiré",
+            "ingredients_name": "Salmon, Mushroom, Flour",
+            "value": "0b010000110000",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Salmon Stew",
+            "ingredients_name": "Salmon, Flour, Potato",
+            "value": "0b010000010100",
+            "image": "no_image.jpg"
+        }, {
             "name": "Onion Rings",
-            "ingredients_name": "FLOUR, ONION, EGG",
+            "ingredients_name": "Flour, Onion, Egg",
             "value": "0b000000010011",
             "image": "no_image.jpg"
         }, {
-            "name": "Moroccan Salad",
-            "ingredients_name": "TOMATO, ONION",
+            "name": "Moroccan Tomato Salad",
+            "ingredients_name": "Tomato, Onion",
             "value": "0b000010000010",
             "image": "no_image.jpg"
         }, {
+            "name": "Fried Chicken",
+            "ingredients_name": "Chicken, Flour, Egg",
+            "value": "0b000001010001",
+            "image": "no_image.jpg"
+        }, {
             "name": "Salisbury Steak with Veggies",
-            "ingredients_name": "BEEF, PORK, TOMATO, ONION, EGG",
-            "value": "0b101100000011",
+            "ingredients_name": "Beef, Pork, Tomato, Onion, Egg",
+            "value": "0b100110000011",
             "image": "no_image.jpg"
         }, {
             "name": "Spaghetti Bolognese",
-            "ingredients_name": "BEEF, TOMATO, FLOUR",
+            "ingredients_name": "Beef, Tomato, Flour",
             "value": "0b100010010000",
             "image": "no_image.jpg"
         }, {
+            "name": "Beef Stew",
+            "ingredients_name": "Beef, Mushroom, Potato, Onion",
+            "value": "0b100000100110",
+            "image": "no_image.jpg"
+        }, {
             "name": "Spaghetti Carbonara",
-            "ingredients_name": "PORK, FLOUR, EGG",
+            "ingredients_name": "Pork, Flour, Egg",
             "value": "0b000100010001",
             "image": "no_image.jpg"
         }, {
+            "name": "Chicken Omurice",
+            "ingredients_name": "Chicken, Rice, Onion, Egg",
+            "value": "0b000001001011",
+            "image": "no_image.jpg"
+        }, {
             "name": "Tuna Terrine",
-            "ingredients_name": "TUNA, MUSHROOM, ONION",
+            "ingredients_name": "Tuna, Mushroom, Onion",
             "value": "0b001000100010",
             "image": "no_image.jpg"
         }, {
             "name": "Salmon Bouillabaisse",
-            "ingredients_name": "SALMON, TOMATO, POTATO",
+            "ingredients_name": "Salmon, Tomato, Potato",
             "value": "0b010010000100",
             "image": "no_image.jpg"
         }, {
+            "name": "Salmon Omelet",
+            "ingredients_name": "Salmon, Mushroom, Egg",
+            "value": "0b010000100001",
+            "image": "no_image.jpg"
+        }, {
             "name": "Marinated Salmon",
-            "ingredients_name": "SALMON, TOMATO, ONION",
+            "ingredients_name": "Salmon, Tomato, Onion",
             "value": "0b010010000010",
             "image": "no_image.jpg"
         }, {
             "name": "Onion Bread",
-            "ingredients_name": "FLOUR, ONION, EGG",
+            "ingredients_name": "Flour, Onion, Egg",
             "value": "0b000000010011",
             "image": "no_image.jpg"
         }, {
             "name": "Vegetable Quiche",
-            "ingredients_name": "TOMATO, MUSHROOM, ONION, EGG",
+            "ingredients_name": "Tomato, Mushroom, Onion, Egg",
             "value": "0b000010100011",
             "image": "no_image.jpg"
         }, {
             "name": "Hokkien Fried Rice",
-            "ingredients_name": "CHICKEN, MUSHROOM, RICE, EGG",
+            "ingredients_name": "Chicken, Mushroom, Rice, Egg",
             "value": "0b000001101001",
             "image": "no_image.jpg"
         }, {
-            "name": "Meat and Fish Hot Pot",
-            "ingredients_name": "BEEF, SALMON, TUNA, PORK, CHICKEN",
+            "name": "Mushroom Risotto",
+            "ingredients_name": "Mushroom, Rice, Onion",
+            "value": "0b000000101010",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Chilled Potato Potage",
+            "ingredients_name": "Flour, Potato, Onion",
+            "value": "0b000000010110",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Egg Tarts",
+            "ingredients_name": "Flour, Egg",
+            "value": "0b000000010001",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Beef Pho",
+            "ingredients_name": "Beef, Rice, Onion",
+            "value": "0b100000001010",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Meat & Fish Hot Pot",
+            "ingredients_name": "Beef, Salmon, Tuna, Pork, Chicken",
             "value": "0b111101000000",
             "image": "no_image.jpg"
         }, {
+            "name": "Minestrone Soup",
+            "ingredients_name": "Pork, Tomato, Potato, Onion",
+            "value": "0b000110000110",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Pot-au-feu",
+            "ingredients_name": "Pork, Mushroom, Potato, Onion",
+            "value": "0b000100100110",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Jambalaya",
+            "ingredients_name": "Chicken, Rice, Onion",
+            "value": "0b000001001010",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Lasagna",
+            "ingredients_name": "Beef, Tomato, Flour",
+            "value": "0b100010010000",
+            "image": "no_image.jpg"
+        }, {
             "name": "Acqua Pazza",
-            "ingredients_name": "SALMON, TUNA, TOMATO",
+            "ingredients_name": "Salmon, Tuna, Tomato",
             "value": "0b011010000000",
             "image": "no_image.jpg"
         }, {
-            "name": "Pizza Margherita",
-            "ingredients_name": "TOMATO, FLOUR",
+            "name": "Flan",
+            "ingredients_name": "Flour, Egg",
+            "value": "0b000000010001",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Margherita Pizza",
+            "ingredients_name": "Tomato, Flour",
             "value": "0b000010010000",
             "image": "no_image.jpg"
         }, {
             "name": "Bramboracka",
-            "ingredients_name": "MUSHROOM, POTATO, ONION",
-            "value": "0b000000100101",
+            "ingredients_name": "Mushroom, Potato, Onion",
+            "value": "0b000000100110",
             "image": "no_image.jpg"
         }, {
             "name": "Epic Lunch",
-            "ingredients_name": "BEEF, TUNA, PORK, TOMATO, RICE, EGG",
+            "ingredients_name": "Beef, Tuna, Pork, Tomato, Rice, Egg",
             "value": "0b101110001001",
+            "image": "no_image.jpg"
+        }, {
+            "name": "Epic Banquet",
+            "ingredients_name": "Beef, Salmon, Tuna, Pork, Tomato, Chicken, Mushroom, Flour, Rice, Potato, Onion, Egg",
+            "value": "0b111111111111",
             "image": "no_image.jpg"
         }
     ]

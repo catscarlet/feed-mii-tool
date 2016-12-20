@@ -21,3 +21,4 @@
 {else}
 <p class="flow-text">No 4 star recipe avaliable.</p>
 {/if}
+<hr>
