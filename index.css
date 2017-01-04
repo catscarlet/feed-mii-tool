@@ -9,3 +9,11 @@
 .row-table {
     max-width: 516px;
 }
+
+.completed-recipe {
+    background-color: #f2f2f2;
+}
+
+.incomplete-recipe {
+    background-color: #f2f2f2;
+}

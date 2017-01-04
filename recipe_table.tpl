@@ -1,5 +1,5 @@
 {if count($results) neq 0}
-<table class="striped">
+<table class="bordered">
     <thead>
         <tr>
             <th data-field="id">Img</th>
