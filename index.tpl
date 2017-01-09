@@ -57,7 +57,7 @@
                 <hr>
                 <p class="center-align">
                     <a class="waves-effect waves-light btn deep-orange accent-4" id="cook" name="button">Cook!</a>
-                    <a class="waves-effect waves-light btn deep-orange accent-4" id="reset" name="button">Reset!</a>
+                    <a class="waves-effect waves-light btn cyan darken-3" id="reset" name="button">Reset!</a>
                 </p>
 
             </div>
@@ -109,6 +109,12 @@
                     </li>
                     <li>Add a website statistics. Please don&#39;t mind the Chinese letter below the page.</li>
                     <li>Some appearance adjustment.</li>
+                </ul>
+                <h5 id="20170110">20170110</h5>
+                <ul>
+                    <li>Add a
+                        <strong>RESET</strong>
+                        button.</li>
                 </ul>
             </div>
             <div class="modal-footer">
