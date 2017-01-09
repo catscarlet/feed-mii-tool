@@ -57,6 +57,7 @@
                 <hr>
                 <p class="center-align">
                     <a class="waves-effect waves-light btn deep-orange accent-4" id="cook" name="button">Cook!</a>
+                    <a class="waves-effect waves-light btn deep-orange accent-4" id="reset" name="button">Reset!</a>
                 </p>
 
             </div>
