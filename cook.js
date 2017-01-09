@@ -9,8 +9,10 @@ $(document).ready(function() {
     });
 
     $('.button-collapse').sideNav();
-    
+
     $('#cook').on('click', calc);
+
+    $('#reset').on('click', reset);
 
     $(document).ready(function() {
         $('.modal').modal();
@@ -25,7 +27,6 @@ function calc() {
             sum = sum + parseInt(this.parentNode.id);
         }
     });
-    console.log(sum);
 
     var data = {
         sum: sum,
@@ -41,10 +42,19 @@ function calc() {
         success: function(msg) {
             Materialize.toast('Cooked!', 4000);
             $('#table').html(msg);
-            console.log(msg);
         },
-        error: function() {
+        error: function(msg) {
             console.log(msg);
         }
     });
+}
+
+function reset() {
+    var obj = $('.ingredients');
+    obj.each(function() {
+        if ($(this).hasClass('ingredients-selected')) {
+            $(this).removeClass('ingredients-selected');
+        }
+    });
+    $('#table').html('');
 }
