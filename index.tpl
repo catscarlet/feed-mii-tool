@@ -30,6 +30,9 @@
                 <ul class="side-nav" id="mobile-demo">
                     <li>
                         <a href="#modal-about" target="_blank">About</a>
+                    <li>
+                        <a href="#modal-changelog" target="_blank">ChangeLog</a>
+                    </li>
                     </li>
                     <li>
                         <a href="https://www.catscarlet.com" target="_blank">Mainpage</a>
