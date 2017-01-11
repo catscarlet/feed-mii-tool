@@ -13,6 +13,7 @@ if (isset($_POST['sum']) && !empty($_POST['sum'])) {
 $output = array();
 
 foreach ($recipe_class as $key => $recipe_info) {
+    /*
     if (false) {
         echo $recipe_info->name."\n";
         echo (int) base_convert($recipe_info->value, 10, 2)."\n";
@@ -20,6 +21,7 @@ foreach ($recipe_class as $key => $recipe_info) {
         echo (int) base_convert($recipe_info->value & $get_ingredents_value, 10, 2)."\n";
         echo "\n";
     }
+    */
 
     if (($recipe_info->value & $get_ingredents_value) == $recipe_info->value) {
         $output[] = $recipe_info;
