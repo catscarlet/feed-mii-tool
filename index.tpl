@@ -17,26 +17,10 @@
             <div class="nav-wrapper green darken-2">
                 <a href="" class="brand-logo center">Feed Mii Tool</a>
                 <ul class="right hide-on-med-and-down">
-                    <li>
-                        <a href="#modal-about" target="_blank">About</a>
-                    </li>
-                    <li>
-                        <a href="#modal-changelog" target="_blank">ChangeLog</a>
-                    </li>
-                    <li>
-                        <a href="https://www.catscarlet.com" target="_blank">Mainpage</a>
-                    </li>
+                    {include file='navmenulist.tpl'}
                 </ul>
                 <ul class="side-nav" id="mobile-demo">
-                    <li>
-                        <a href="#modal-about" target="_blank">About</a>
-                    <li>
-                        <a href="#modal-changelog" target="_blank">ChangeLog</a>
-                    </li>
-                    </li>
-                    <li>
-                        <a href="https://www.catscarlet.com" target="_blank">Mainpage</a>
-                    </li>
+                    {include file='navmenulist.tpl'}
                 </ul>
             </div>
         </nav>
