@@ -9,7 +9,7 @@
         <meta name="keywords" content="3ds,feed,mii,streetpass,street,pass,4star,mii,plaze">
         <meta name="author" content="Catscarlet">
     </head>
-    <script type="text/javascript" src="jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="lib/jquery-3.1.1.min.js"></script>
     <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
     <script type="text/javascript" src="cook.js"></script>
     <body>
