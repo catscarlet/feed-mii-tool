@@ -11,7 +11,13 @@
     </head>
     <script type="text/javascript" src="lib/jquery-3.1.1.min.js"></script>
     <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+
+    <script type="text/javascript" src="lib/CryptoJS/rollups/aes.js"></script>
+    <script type="text/javascript" src="lib/CryptoJS/components/pad-zeropadding.js"></script>
+    <script type="text/javascript" src="lib/CryptoJS/rollups/md5.js"></script>
+
     <script type="text/javascript" src="cook.js"></script>
+    <script type="text/javascript" src="login.js"></script>
     <body>
         <nav>
             <div class="nav-wrapper green darken-2">
@@ -62,6 +68,7 @@
 
         {include file='modalTpl/about.tpl'}
         {include file='modalTpl/changelog.tpl'}
+        {include file='modalTpl/login.tpl'}
 
     </body>
 </html>
