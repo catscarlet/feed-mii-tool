@@ -19,6 +19,6 @@
     </tbody>
 </table>
 {else}
-<p class="flow-text">No 4 star recipe avaliable.</p>
+<p class="flow-text">No recipe avaliable.</p>
 {/if}
 <hr>

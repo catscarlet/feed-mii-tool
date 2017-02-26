@@ -14,9 +14,7 @@ $(document).ready(function() {
 
     $('#reset').on('click', reset);
 
-    $(document).ready(function() {
-        $('.modal').modal();
-    });
+    $('.modal').modal();
 });
 
 function calc() {
